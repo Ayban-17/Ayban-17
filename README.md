@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayban</h1>
-<h3 align="center">Hey there! It's great to meet you! My name is Ayban, and I'm a graduating student studying Information Technology with a major on Web Development (Mostly Front-End). I'm really excited to be pursuing this field and have learned so much throughout my studies. Please do check my repositories!</h3>
+<h3 align="center">Hey there! It's great to meet you! My name is Ayban, and I was an Information Technology student with a major on Web Development (Mostly Front-End). I'm really excited to be pursuing this field and have learned so much throughout my studies. Please do check my repositories!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayban-17&label=Profile%20views&color=0e75b6&style=flat" alt="ayban-17" /> </p>
 
